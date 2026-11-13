@@ -3,7 +3,7 @@
 #include <DHT.h>
 
 #define TFT_CS   5
-#define TFT_RST  6
+#define TFT_RST  -1
 #define TFT_DC   7
 #define TFT_MOSI 8
 #define TFT_SCK  9
